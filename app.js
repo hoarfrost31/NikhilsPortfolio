@@ -1,6 +1,6 @@
 const favicon=document.createElement('link');favicon.rel='icon';favicon.type='image/svg+xml';favicon.href='assets/favicon-np.svg';document.head.append(favicon);
 const projects={xr:[
-{name:'MyTvR — CinemaVR',desc:'An immersive virtual cinema application for exploring a theatre environment and accessing movie content in VR.',tags:['XR/VR','Unity'],art:'cinemavr',url:'project-mytvr-cinemavr.html'},
+{name:'MyTvR — CinemaVR',desc:'An immersive virtual cinema application for streaming and watching content inside Oculus VR environments.',tags:['XR/VR','Unity'],art:'cinemavr',video:'assets/MyTvR.mp4',url:'project-mytvr-cinemavr.html'},
 {name:'PopShot',desc:'An experimental XR/VR game built to explore VR interaction systems, interactive objects, UI, and gameplay in Unity.',tags:['XR/VR','Simulation'],art:'video-popshot',video:'assets/PopShot.mp4',poster:'assets/PopShot-midpoint.png',url:'project-popshot.html'},
 {name:'RecoVR',desc:'A VR experience designed to help people gradually become more comfortable with fear of heights through controlled virtual exposure.',tags:['XR/VR','Training'],art:'video-recovr',video:'assets/Recovr.mp4',poster:'assets/Recovr-midpoint.png',url:'project-recovr.html'},
 {name:'RageRooms',desc:'A VR experience where players smash everyday office objects with a baseball bat using physical interactions and impact feedback.',tags:['XR/VR','Game'],art:'video-ragerooms',video:'assets/RageRooms.mp4',poster:'assets/RageRooms-midpoint.png',url:'project-ragerooms.html'},
